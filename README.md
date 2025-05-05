@@ -1,4 +1,4 @@
-[CASO PRÁCTICO HUGO.xlsx](https://github.com/user-attachments/files/20041241/CASO.PRACTICO.HUGO.xlsx)# CityBlend Coffee Shop Analisis
+# CityBlend Coffee Shop Analisis
 Análisis de datos de ventas de tres sucursales de la cadena CityBlend en un periodo de seis meses.
 
 
