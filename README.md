@@ -10,4 +10,6 @@ La cafeteria cuenta con 3 sucursales, ubicadas en Astoria, Lower Manhattan y Hel
 
 1. Las bebidas calientes son las de mayor demanda en las 3 sucursales, siendo el Barista Expreso el que mas ingreso genera, por lo que podria servir alguna promoción que incluya este producto y algun producto de la categoria Bakery para incrementar las ventas de esta sección, ya que aproximadamente se vende un producto de bakery por cada 5 bebidas.
 2. El producto Brewed Chai Tea, es el producto que mas transacciones genera, podria ser otra opción para generar alguna oferta similiar que el punto 1.
-[CASO PRÁCTICO HUGO.xlsx](https://github.com/user-attachments/files/20041244/CASO.PRACTICO.HUGO.xlsx)
+
+
+**Aquí se muestra el archivo de Excel con el análisis pertinente.** [CASO PRÁCTICO HUGO.xlsx](https://github.com/user-attachments/files/20041244/CASO.PRACTICO.HUGO.xlsx)
